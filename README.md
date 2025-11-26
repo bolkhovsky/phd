@@ -13,6 +13,8 @@ LaTeX-шаблон для русской кандидатской диссерт
 
 [**Как писать диссертацию на GitHub?**](Readme/github.md)
 
+[**Интеграция шаблона с Obsidian для удобного написания**](Readme/Obsidian.md)
+
 ## Обсуждение
 Общие вопросы лучше всего писать в gitter-канал:
 [![Join the chat at https://gitter.im/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
